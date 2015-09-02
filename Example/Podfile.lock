@@ -1,0 +1,198 @@
+PODS:
+  - Expecta (1.0.2)
+  - Expecta+Snapshots (2.0.0):
+    - Expecta (~> 1.0)
+    - FBSnapshotTestCase/Core (~> 2.0.3)
+  - FBSnapshotTestCase (2.0.3):
+    - FBSnapshotTestCase/SwiftSupport (= 2.0.3)
+  - FBSnapshotTestCase/Core (2.0.3)
+  - FBSnapshotTestCase/SwiftSupport (2.0.3):
+    - FBSnapshotTestCase/Core
+  - GenericTableViewController (0.1.0):
+    - SSDataSources (~> 0.8)
+    - YOLOKit (~> 11.1)
+  - Specta (1.0.3)
+  - SSDataSources (0.8.5)
+  - YOLOKit (11.1.3):
+    - YOLOKit/all (= 11.1.3)
+    - YOLOKit/any (= 11.1.3)
+    - YOLOKit/array (= 11.1.3)
+    - YOLOKit/base (= 11.1.3)
+    - YOLOKit/chunk (= 11.1.3)
+    - YOLOKit/concat (= 11.1.3)
+    - YOLOKit/dict (= 11.1.3)
+    - YOLOKit/each (= 11.1.3)
+    - YOLOKit/extend (= 11.1.3)
+    - YOLOKit/find (= 11.1.3)
+    - YOLOKit/first (= 11.1.3)
+    - YOLOKit/flatMap (= 11.1.3)
+    - YOLOKit/flatten (= 11.1.3)
+    - YOLOKit/fmap (= 11.1.3)
+    - YOLOKit/get (= 11.1.3)
+    - YOLOKit/groupBy (= 11.1.3)
+    - YOLOKit/has (= 11.1.3)
+    - YOLOKit/indexOf (= 11.1.3)
+    - YOLOKit/inject (= 11.1.3)
+    - YOLOKit/join (= 11.1.3)
+    - YOLOKit/last (= 11.1.3)
+    - YOLOKit/map (= 11.1.3)
+    - YOLOKit/max (= 11.1.3)
+    - YOLOKit/min (= 11.1.3)
+    - YOLOKit/none (= 11.1.3)
+    - YOLOKit/partition (= 11.1.3)
+    - YOLOKit/pick (= 11.1.3)
+    - YOLOKit/pluck (= 11.1.3)
+    - YOLOKit/pmap (= 11.1.3)
+    - YOLOKit/pop (= 11.1.3)
+    - YOLOKit/push (= 11.1.3)
+    - YOLOKit/reduce (= 11.1.3)
+    - YOLOKit/reverse (= 11.1.3)
+    - YOLOKit/rotate (= 11.1.3)
+    - YOLOKit/sample (= 11.1.3)
+    - YOLOKit/select (= 11.1.3)
+    - YOLOKit/shift (= 11.1.3)
+    - YOLOKit/shuffle (= 11.1.3)
+    - YOLOKit/skip (= 11.1.3)
+    - YOLOKit/slice (= 11.1.3)
+    - YOLOKit/snip (= 11.1.3)
+    - YOLOKit/sort (= 11.1.3)
+    - YOLOKit/split (= 11.1.3)
+    - YOLOKit/transpose (= 11.1.3)
+    - YOLOKit/uniq (= 11.1.3)
+    - YOLOKit/unshift (= 11.1.3)
+    - YOLOKit/upTo (= 11.1.3)
+    - YOLOKit/without (= 11.1.3)
+  - YOLOKit/all (11.1.3):
+    - YOLOKit/base
+  - YOLOKit/any (11.1.3):
+    - YOLOKit/base
+  - YOLOKit/array (11.1.3):
+    - YOLOKit/base
+  - YOLOKit/base (11.1.3)
+  - YOLOKit/chunk (11.1.3):
+    - YOLOKit/base
+    - YOLOKit/slice
+  - YOLOKit/concat (11.1.3):
+    - YOLOKit/base
+  - YOLOKit/dict (11.1.3):
+    - YOLOKit/base
+    - YOLOKit/transpose
+  - YOLOKit/each (11.1.3):
+    - YOLOKit/base
+  - YOLOKit/extend (11.1.3):
+    - YOLOKit/base
+  - YOLOKit/find (11.1.3):
+    - YOLOKit/base
+  - YOLOKit/first (11.1.3):
+    - YOLOKit/base
+    - YOLOKit/slice
+  - YOLOKit/flatMap (11.1.3):
+    - YOLOKit/base
+  - YOLOKit/flatten (11.1.3):
+    - YOLOKit/base
+  - YOLOKit/fmap (11.1.3):
+    - YOLOKit/base
+    - YOLOKit/map
+  - YOLOKit/get (11.1.3):
+    - YOLOKit/base
+  - YOLOKit/groupBy (11.1.3):
+    - YOLOKit/base
+  - YOLOKit/has (11.1.3):
+    - YOLOKit/base
+  - YOLOKit/indexOf (11.1.3):
+    - YOLOKit/base
+  - YOLOKit/inject (11.1.3):
+    - YOLOKit/base
+  - YOLOKit/join (11.1.3):
+    - YOLOKit/base
+    - YOLOKit/pluck
+  - YOLOKit/last (11.1.3):
+    - YOLOKit/base
+    - YOLOKit/slice
+  - YOLOKit/map (11.1.3):
+    - YOLOKit/base
+  - YOLOKit/max (11.1.3):
+    - YOLOKit/base
+  - YOLOKit/min (11.1.3):
+    - YOLOKit/base
+  - YOLOKit/none (11.1.3):
+    - YOLOKit/base
+  - YOLOKit/partition (11.1.3):
+    - YOLOKit/base
+  - YOLOKit/pick (11.1.3):
+    - YOLOKit/base
+  - YOLOKit/pluck (11.1.3):
+    - YOLOKit/base
+  - YOLOKit/pmap (11.1.3):
+    - YOLOKit/base
+  - YOLOKit/pop (11.1.3):
+    - YOLOKit/base
+  - YOLOKit/push (11.1.3):
+    - YOLOKit/base
+  - YOLOKit/reduce (11.1.3):
+    - YOLOKit/base
+    - YOLOKit/last
+  - YOLOKit/reverse (11.1.3):
+    - YOLOKit/base
+  - YOLOKit/rotate (11.1.3):
+    - YOLOKit/base
+    - YOLOKit/concat
+    - YOLOKit/skip
+    - YOLOKit/snip
+  - YOLOKit/sample (11.1.3):
+    - YOLOKit/base
+  - YOLOKit/select (11.1.3):
+    - YOLOKit/base
+  - YOLOKit/shift (11.1.3):
+    - YOLOKit/base
+  - YOLOKit/shuffle (11.1.3):
+    - YOLOKit/base
+  - YOLOKit/skip (11.1.3):
+    - YOLOKit/base
+    - YOLOKit/last
+  - YOLOKit/slice (11.1.3):
+    - YOLOKit/base
+  - YOLOKit/snip (11.1.3):
+    - YOLOKit/base
+    - YOLOKit/slice
+  - YOLOKit/sort (11.1.3):
+    - YOLOKit/all
+    - YOLOKit/base
+    - YOLOKit/transpose
+  - YOLOKit/split (11.1.3):
+    - YOLOKit/base
+  - YOLOKit/transpose (11.1.3):
+    - YOLOKit/base
+    - YOLOKit/each
+    - YOLOKit/max
+    - YOLOKit/select
+  - YOLOKit/uniq (11.1.3):
+    - YOLOKit/base
+  - YOLOKit/unshift (11.1.3):
+    - YOLOKit/base
+  - YOLOKit/upTo (11.1.3):
+    - YOLOKit/base
+  - YOLOKit/without (11.1.3):
+    - YOLOKit/base
+
+DEPENDENCIES:
+  - Expecta
+  - Expecta+Snapshots
+  - FBSnapshotTestCase
+  - GenericTableViewController (from `../`)
+  - Specta
+
+EXTERNAL SOURCES:
+  GenericTableViewController:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Expecta: 54e8a3530add08f4f0208c111355eda7cde74a53
+  Expecta+Snapshots: 29b38dd695bc72a0ed2bea833937d78df41943ba
+  FBSnapshotTestCase: d0eeca6bf87958e088b254396ae66873f971cfb1
+  GenericTableViewController: dcf7ce6c4876d3e380d87e6611dda717fbd6eca8
+  Specta: cf3e4188cf35375c3ee2cd03f8db8f1f4ef98234
+  SSDataSources: b01170fb23b82acf0649194e9189b0bf5f702681
+  YOLOKit: f89d1a0a9a82a83da46b361cc4525d65b3abf1c7
+
+COCOAPODS: 0.38.2
